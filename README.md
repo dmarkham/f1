@@ -1,5 +1,5 @@
 # F1
-Computes F1 Scores
+Simple data structure to computes F1 scores.
 
 https://en.wikipedia.org/wiki/F1_score
 
